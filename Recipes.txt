@@ -1,4 +1,6 @@
 Welcome to Telusko kitchen
 kheer
+pizza
+pasta
 chicken
 thanx
